@@ -1,6 +1,6 @@
 # Merinspect
   重大喜讯！我修好了毒性软泥--(bushi)  
-  MerInspect_classic_era_版附魔显示已完全修复。
+  MerInspect_classic_era_版附魔显示已完全修复。  
   本版插件只适配1.14.3版本游戏！其他大版本游戏数据库没有整理添加。 目前这版插件生效必须配合加载以下任意一款网易插件：!!!163UI!!!网易有爱控制台、alaChat_Classic聊天插件（旧版）、alaTrade拍卖行插件、alaMisc实用小功能、InstanceLockeddownTimer 有爱爆本计时器。有爱离线包地址https://wowui.w.163.com/163ui/ 仅需要离线压缩包里任意一款即可。 玉素奴香@哈霍兰CN 个人仓库https://github.com/JosephineYusunuxiang/MerInspect
 
 -------------------------------------------------------
