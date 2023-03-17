@@ -1,4 +1,4 @@
-# Merinspect
+# Merinspect 观察助手_classic_era_附魔全修复版
   重大喜讯！我修好了毒性软泥--(bushi)  
   MerInspect_classic_era_版附魔显示已完全修复。  
   本版插件只适配1.14.3版本游戏！其他大版本游戏数据库没有整理添加。 
