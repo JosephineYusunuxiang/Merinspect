@@ -1,8 +1,8 @@
 # Merinspect 观察助手_classic_era_附魔全修复版
     
-  请将压缩包里的MerInspect和InstanceLockeddownTimer两个文件夹放入World of Warcraft\_classic_era_\Interface\AddOns一并加载  
-  
-  有任何附魔错误欢迎在github留言、论坛回复或给我发邮件，期待您的意见。  
+# 请将压缩包里的MerInspect和InstanceLockeddownTimer两个文件夹放入World of Warcraft\_classic_era_\Interface\AddOns一并加载。  
+
+# 有任何附魔错误欢迎在github留言、论坛回复或给我发邮件，期待您的意见！   
   
   重大喜讯！我修好了毒性软泥--(bushi)  
   MerInspect_classic_era_版附魔显示已完全修复。  
